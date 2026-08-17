@@ -26,9 +26,9 @@ This role has strengthened my skills in backend development, systems integration
 
 ### 🌟 Highlights
 
-- 🔭 **I am currently working on:** Collaborating on the **ChecaBien** frontend platform and building my upgraded portfolio in Next.js.
+- 🔭 **I worked on:** Collaborating on the **ChecaBien** frontend platform and building my upgraded portfolio in Next.js.
 - 🏆 **Recent Milestones:** Participated in the **Microsoft "Del Dato a la Acción" Hackathon** (building an end-to-end data pipeline in Azure/Fabric) and the **She Ships Global Hackathon** (developing the *She Builds* platform).
-- 🌱 **I am currently learning:** Advanced Cloud Architectures (Azure) and Next.js optimization.
+- 🌱 **I am currently learning:** Advanced Architectures (SQL) and Next.js optimization.
 - 🤝 **I am looking to collaborate on:** Innovative Full Stack web applications and competitive tech hackathons.
 - 💬 **Ask me about:** React/JavaScript development, frontend performance, and API integrations (OpenAI/Gemini).
 - 💜 **Fun fact:** When I'm not coding, I stream video games as a VTuber (**Gatimixx** on Twitch, Kick, and TikTok!), and I love spending time with my three cats: Alegría, Mateo and Sprite. 🐾
