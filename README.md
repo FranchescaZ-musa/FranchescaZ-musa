@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franchesca Zelaya</h1>
-<h3 align="center">Full Stack Developer & Software Engineering Master's Student</h3>
+<h3 align="center">Full Stack Developer & Software Engineering Student</h3>
 
 <p align="center">
   Building scalable web applications, integrating AI, and participating in tech hackathons.
