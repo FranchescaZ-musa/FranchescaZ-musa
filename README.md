@@ -68,19 +68,10 @@ This role has strengthened my skills in backend development, systems integration
 
 ---
 
-<h2 align="center">⚙️ GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/FranchescaZ-musa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranchescaZ-musa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranchescaZ-musa&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/franchesca-zelaya](https://www.linkedin.com/in/franchesca-zelaya/)" target="_blank">
+  <a href="https://www.linkedin.com/in/franchesca-zelaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fatimapolgar2001@gmail.com">
