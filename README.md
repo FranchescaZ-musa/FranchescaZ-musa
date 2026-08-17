@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franchesca Zelaya</h1>
-<h3 align="center">Full Stack Developer & Software Engineering Student</h3>
+<h3 align="center">Full Stack Developer & Systems and Computer Engineering Student</h3>
 
 <p align="center">
   Building scalable web applications, integrating AI, and participating in tech hackathons.
@@ -61,7 +61,7 @@ This role has strengthened my skills in backend development, systems integration
 
 ### 📚 Education
 
-- **Master in Software Engineering** | *Universidad Continental* | May 2025 - October 2027
+- **Systems and Computer Engineering** | *Universidad Continental* | May 2025 - October 2027
 - **Web Developer** | *Laboratoria Bootcamp* | May - October 2024
 - **Web Developer** | *TripleTen Bootcamp* | July 2023 - October 2024
 - **Textile & Confectionery Engineering** | *Universidad Nacional Mayor de San Marcos* | March 2018 - December 2022
@@ -71,22 +71,19 @@ This role has strengthened my skills in backend development, systems integration
 <h2 align="center">⚙️ GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/FranchescaF">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranchescaF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranchescaF&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/FranchescaZ-musa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranchescaZ-musa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranchescaZ-musa&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/franchesca-zelaya" target="_blank">
+  <a href="[https://linkedin.com/in/franchesca-zelaya](https://www.linkedin.com/in/franchesca-zelaya/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fatimapolgar2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitch.tv/gatimixx" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
 </p>
